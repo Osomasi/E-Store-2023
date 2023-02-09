@@ -1,0 +1,18 @@
+.content {
+    
+
+  }
+  .content-img1{
+    background: url(./Images/homepicture.jpg);
+    height: 200px;
+  }
+  .author {
+    font-size: 12px;
+  }
+  .title {
+    margin-top: 10px;
+  }
+  .text {
+    height: 70px;
+    margin: 0;
+  }
